@@ -1,0 +1,14 @@
+{
+  "name": "kubernetes_mundo",
+  "version": "1.0.0",
+  "description": "mi primer hola mundo en kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
